@@ -8,6 +8,7 @@ import { api } from "../../services/api";
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
 
 import styles from "./episode.module.scss";
+import { route } from "next/dist/server/router";
 
 type Episode = {
   id: string;
@@ -26,6 +27,12 @@ type EpisodeProps = {
 };
 
 export default function Episode({ episode }: EpisodeProps) {
+  // const router = useRouter();
+
+  // if (router.isFallback) {
+  //   return <p>Carregando...</p>;
+  // }
+
   return (
     <div className={styles.episode}>
       <div className={styles.thumbnailContainer}>
@@ -61,8 +68,24 @@ export default function Episode({ episode }: EpisodeProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const { data } = await api.get("episodes", {
+    params: {
+      __limit: 2,
+      __sort: "published_at",
+      __order: "desc",
+    },
+  });
+
+  const paths = data.map((episode) => {
+    return {
+      params: {
+        slug: episode.id,
+      },
+    };
+  });
+
   return {
-    paths: [],
+    paths,
     fallback: "blocking",
   };
 };
