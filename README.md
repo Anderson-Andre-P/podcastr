@@ -26,12 +26,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
   <br />
 
-  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/anderson-andre-p/podcastrnext?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anderson-andre-p/podcastrnext?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/anderson-andre-p/podcastrnext?color=56BEB8"> -->
-
 </p>
 
 <!-- Status -->
@@ -43,6 +37,7 @@
 <hr> -->
 
 <p align="center">
+  <a href="#link-demo">Demo</a> &#xa0; | &#xa0; 
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
