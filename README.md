@@ -9,7 +9,7 @@
 <!-- <h1 align="center">Podcastr</h1> -->
 <p align="center">
 
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Anderson-Andre-P/podcastrnext?color=56BEB8">
+  <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/anderson-andre-p/podcastrnext?color=56BEB8">
 
