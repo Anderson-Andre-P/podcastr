@@ -9,7 +9,7 @@
 <!-- <h1 align="center">Podcastr</h1> -->
 <p align="center">
 
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anderson-andre-p/podcastrnext?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Anderson-Andre-P/podcastrnext?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/anderson-andre-p/podcastrnext?color=56BEB8">
 
@@ -17,11 +17,6 @@
 
   <img alt="License" src="https://img.shields.io/github/license/anderson-andre-p/podcastrnext?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -41,6 +36,10 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Author</a>
 </p>
+
+## :link: Demo
+
+![Demo](/Demo.png)
 
 <br>
 
