@@ -22,10 +22,7 @@
   </br>
   
   <img src="https://img.shields.io/badge/podcastr-01.02.22-5965e0?style=for-the-badge&labelColor=5965e0">
-
-  <a href="https://github.com/Anderson-Andre-P/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/podcastr?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
-  </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/podcastr?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
   <br />
 
