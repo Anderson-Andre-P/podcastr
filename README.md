@@ -13,11 +13,27 @@
     <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
   </a>
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anderson-andre-p/podcastrnext?color=56BEB8">
+  <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
+      <img alt="Anderson André" src="https://img.shields.io/badge/-Anderson%20André-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/podcastr?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
+  
+  </br>
+  
+  <img src="https://img.shields.io/badge/podcastr-01.02.22-5965e0?style=for-the-badge&labelColor=5965e0">
+
+  <a href="https://github.com/Anderson-Andre-P/podcastr/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/podcastr?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
+  <br />
+
+  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/anderson-andre-p/podcastrnext?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/anderson-andre-p/podcastrnext?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/anderson-andre-p/podcastrnext?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/anderson-andre-p/podcastrnext?color=56BEB8"> -->
 
 </p>
 
